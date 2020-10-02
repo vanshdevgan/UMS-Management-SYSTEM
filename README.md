@@ -1,5 +1,5 @@
 # University-Management-SYSTEM Using C++ (UMS)
-This Project Is Done Only For Learning Purpose And It Was My Conitnous Assesment In My First Year Maybe The Project Can Help You Building Some Functionalites Like<br>
+This Project Is Done Only For Learning Purpose And It Was My Continous Assesment In My First Year Maybe The Project Can Help You Building Some Functionalites Like<br>
 1-Login System<br>
 2-User Registration <br>
 3-Update Password<br>
