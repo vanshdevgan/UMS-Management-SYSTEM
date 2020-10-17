@@ -644,7 +644,7 @@ switch(num) // switch case for choice in mainMenu() Function
 	
 }
 	
-int main() // This Is Main Function
+int main() // THIS IS MAIN FUNCTION
 {
  UMS A;  // A Is Object Of Class UMS In Other Words - A Is Of Type UMS 
   A.mainPage();
