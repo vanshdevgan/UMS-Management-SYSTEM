@@ -58,9 +58,9 @@ void UMS::newstu()
 {
 	string nusername;
 	string npassword;
-	cout<<"Enter New Student Username "<<endl;
+	cout<<"Enter New Username "<<endl;
 	cin>>nusername;
-	cout<<"Enter New Student Password "<<endl;
+	cout<<"Enter New Password "<<endl;
 	cin>>npassword;
 	ofstream out;
 	out.open("uid_password",ios::out|ios::app);
