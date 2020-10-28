@@ -54,7 +54,7 @@ class UMS //Base Class UMS
 	void stushowTask(string username);
 	void newstu();
 };
-void UMS::newstu()
+void UMS::newstu() //For newstudent
 {
 	string nusername;
 	string npassword;
@@ -138,7 +138,7 @@ string UMS::chooseTask()
 	cin>>ctopt;
 	return ctopt;
 }
-void UMS::createTask()
+void UMS::createTask() //For Task
 {
 showTask(); 
 int coption;
@@ -648,5 +648,5 @@ int main() // THIS IS MAIN FUNCTION
 {
  UMS A;  // A Is Object Of Class UMS In Other Words - A Is Of Type UMS 
   A.mainPage();
-  return 0;
+  return 0; //returning int 
 }
